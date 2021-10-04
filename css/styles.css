@@ -1,0 +1,22 @@
+.nav {
+    height: 100px;
+background-color: aqua;
+}
+.col {
+height: 417px;
+
+
+}
+.left {
+    background-color: blue;
+
+}
+.right {
+    background-color: blueviolet;
+}
+
+
+.footer{
+    height: 100px;
+    background-color: aqua;
+}

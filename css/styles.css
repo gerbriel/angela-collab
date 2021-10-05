@@ -1,22 +1,22 @@
 .nav {
     height: 100px;
-background-color: aqua;
-}
-.col {
-height: 417px;
 
-
+    background-color:skyblue;
 }
 .left {
-    background-color: blue;
-
+    height: 650px;
+    background-color: lightgreen;
 }
 .right {
-    background-color: blueviolet;
+height: 650px;
+background-color: lightcoral;
 }
+
 
 
 .footer{
-    height: 100px;
-    background-color: aqua;
+   height:150px;
+   background-color:aqua; 
 }
+
+

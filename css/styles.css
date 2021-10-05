@@ -1,5 +1,6 @@
 .nav {
     height: 100px;
+
     background-color:skyblue;
 }
 .left {
@@ -17,4 +18,5 @@ background-color: lightcoral;
    height:150px;
    background-color:aqua; 
 }
+
 

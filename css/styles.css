@@ -1,22 +1,23 @@
 .nav {
-    height: 100px;
+    height: 30px;
+background-color: aqua;
+}
+.col {
+height: 417px;
 
-    background-color:skyblue;
 }
 .left {
-    height: 650px;
-    background-color: lightgreen;
+    background-color: blue;
+
 }
 .right {
-height: 650px;
-background-color: lightcoral;
+    background-color: blueviolet;
 }
-
 
 
 .footer{
-   height:150px;
-   background-color:aqua; 
+    height: 50px;
+    background-color: aqua;
 }
-
-
+.jumbotron-fluid {
+margin: 0px;}
